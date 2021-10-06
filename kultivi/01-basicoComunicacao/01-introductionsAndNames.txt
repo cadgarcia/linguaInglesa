@@ -1,0 +1,16 @@
+What's your name?
+What is your name?
+Qual seu nome?
+    R.  My name is João Moreira.
+        It's João Moreira.
+
+
+Full Name - Complete Name - João Carlos Garcia Moreira
+
+Primeiro nome   Nome do meio        Último nome
+First Name      Middle Name         Last Name
+Christian Name                      Family Name
+Forename                            Surname
+
+João            Garcia              Moreira
+

@@ -1,0 +1,5 @@
+verbo I Want (quero)
+    I want a large pizza.
+    Eu quero uma pizza grande.
+
+    
