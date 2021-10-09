@@ -1,0 +1,46 @@
+Whats your occupation?      (qual sua profissão?)
+Whats your profession?
+I am a developer.           (Eu sou programador)
+
+What do you do?             (o que você faz?)
+I am a developer.           #presença do A antes da consoante D
+I am analist.               #não temos A antes da volgal A
+
+What do you do?
+I act in projects of industrial plants.   ???
+
+to play  (brincar ou jogar ou tocar)
+
+What do you do?             (o que você faz?)
+I prepare and cook dishes.  (eu preparo e cozinho pratos [de alimentação])
+Pizza is my favorit dishes.
+
+What do you do?             (o que você faz?)
+I treat people.     (eu trato pessoas)
+
+What do you do?             (o que você faz?)
+I help and protect people.  (eu salvo e protejo pessoas)
+
+What do you do?                             (o que você faz?)
+I answer the phone and talk to people.      (eu respondo ao telefone e converso com o pessoal)
+
+What do you do?             (o que você faz?)
+I go to school and study.   (eu vou a escola e estudo)
+
+What do you do?                 (o que você faz?)
+I serve people in restaurants.  (eu sirvo pessoas no restaurante)
+
+What do you do?                 (o que você faz?)
+I help people buy, sell or rent houses and apartments.  
+                                (eu ajudo pessoas a comprar, vender ou alugar casas e apartamentos)
+
+
+eu não gosto        i do not like / i dont like            
+eu gosto            i like it now
+eu desejo agora     i drew now
+eu penso agora      i think now
+eu quero agora      i want now
+eu tenho agora      i have now
+eu preciso agora    i need now
+eu vou agora        i'm going now
+
