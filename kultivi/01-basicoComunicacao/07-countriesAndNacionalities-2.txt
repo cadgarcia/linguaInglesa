@@ -1,0 +1,30 @@
+What's your nationality?
+    My nationality is É UM ERRO, NÃO EXISTE.
+    I am Braziliam.
+
+
+
+
+
+What's HIS name?        nome DELE
+HIS name is Paul.       SEU nome masculino
+
+What's HER name?        nome DELA
+HER name is Sarah.      SEU nome feminino
+
+
+What's his name?
+    His name is Takashi.
+What city is he from?
+    He is from Nagoya.
+What's his nationality?
+    He is japanese.
+
+What's her name?
+    Her name is Brigitte.
+What cityy is she from?
+    She is from Lyon.
+What's her nationality?
+    She is french.
+
+    
